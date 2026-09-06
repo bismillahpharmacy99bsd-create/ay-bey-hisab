@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "আয়–ব্যয় হিসাব",
+    "slug": "ay-bey-hisab",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "android": {"package": "com.aybey.hisab", "versionCode": 2},
+    "assetBundlePatterns": ["**/*"]
+  }
+}
